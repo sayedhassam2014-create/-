@@ -1,0 +1,8 @@
+{
+  "name": "Copy of StyleFit - ستايل فيت",
+  "description": "StyleFit allows users to virtually try on clothing using AI, get accurate size recommendations, and manage their digital closet. تطبيق ستايل فيت يتيح قياس الملابس افتراضياً والحصول على مقاسات دقيقة وتنسيق ملابسك الشخصية بالذكاء الاصطناعي.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
